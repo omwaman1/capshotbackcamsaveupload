@@ -1,0 +1,86 @@
+body {
+background-color: #9c9f84;
+margin: 0px;
+font-family: Verdana, Georgia, serif;
+font-size: 14px;
+}
+
+#header {
+background-color: #5c755e;
+margin: 10px;
+height: 90px;
+border-radius: 5px;
+}
+
+#navbar {
+background-color: #5c755e;
+margin: 10px;
+height: 35px;
+border-radius: 5px;
+}
+
+.main {
+background-color: #e5e4d7;
+margin-left: 10px;
+margin-right: 320px;
+margin-top: 10px;
+margin-bottom: 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 110%;
+
+}
+
+.sideright {
+background-color: #e5e4d7;
+font-size: 105%;
+padding: 20px;
+width:260px;
+float: right;
+border-radius: 5px;
+margin-left:10px; margin-right:10px; margin-top:0px; margin-bottom:10px;
+clear:right;
+border: red 10px;
+}
+
+
+.sideright-image {
+
+width:300px;
+float: right;
+clear:right;
+
+border-radius: 5px;
+margin-left:10px; margin-right:10px; margin-top:0px; margin-bottom:10px;
+opacity: 0.6;
+transition: opacity 1s ease-in-out;
+-moz-transition: opacity 1s ease-in-out;
+-webkit-transition: opacity 1s ease-in-out;
+
+}
+
+
+.sideright-image a hover {
+
+    opacity: 1.0;
+    transition: opacity .55s ease-in-out;
+    -moz-transition: opacity .55s ease-in-out;
+    -webkit-transition: opacity .55s ease-in-out;
+
+}
+
+h1 {
+font-size: 120%;
+color: #ce282e;
+}
+
+h2 {
+font-size: 120%;
+color: darkblue;
+}
+.cam {
+height: 10px;
+width: 10px
+padding: 2px;
+
+}
